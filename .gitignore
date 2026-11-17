@@ -1,4 +1,0 @@
-FILES_TO_REVIEW_AND_DELETE/
-__pycache__/
-*.py[cod]
-.streamlit/secrets.toml
